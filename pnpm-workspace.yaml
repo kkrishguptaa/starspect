@@ -1,0 +1,7 @@
+packages:
+  - "server"
+  - "extension"
+allowBuilds:
+  esbuild: true
+  sharp: true
+  workerd: true

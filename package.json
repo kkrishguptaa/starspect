@@ -1,0 +1,14 @@
+{
+  "name": "starspect",
+  "version": "0.0.1",
+  "description": "Browser Extension to verify the authenticity of GitHub stars",
+  "keywords": [
+    "chrome-extension",
+    "github",
+    "stars",
+    "verification"
+  ],
+  "author": "Krish Gupta <krish@krishg.com>",
+  "license": "GPL-3.0",
+  "packageManager": "pnpm@10.33.2"
+}
